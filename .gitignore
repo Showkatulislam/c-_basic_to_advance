@@ -1,0 +1,7 @@
+# c-_basic_to_advance
+# ignore all .a files
+*.cpp
+# ignore all .a files
+*.exe
+# ignore all .a files
+*.o
